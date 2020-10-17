@@ -1,0 +1,11 @@
+mysql://b6c452834ef04d:2c8d9f31@us-cdbr-east-02.cleardb.com/heroku_5c524a96c5678f3?reconnect=true
+ DBUSERNAME= b6c452834ef04d
+
+ DBPASSWORD= 2c8d9f31
+
+ DBHOSTNAME= us-cdbr-east-02.cleardb.com
+
+ DBSCHEMA= heroku_5c524a96c5678f3
+
+I wasn't able to do triggers because I could not get my local database to work. 
+
